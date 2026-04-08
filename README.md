@@ -3,7 +3,7 @@
 > Em constante evolução, transformando aprendizado em código e ideias em soluções.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Estudante%20de-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-0A66C2?style=for-the-badge" />
+  <<img src="https://img.shields.io/badge/Estudante%20de-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-0A66C2?style=for-the-badge" /> />
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Perfil-Aprendizado%20Cont%C3%ADnuo-16A34A?style=for-the-badge" />
 </p>
