@@ -49,7 +49,6 @@ Gosto de explorar tecnologias, entender como as coisas funcionam e transformar c
 </p>
 
 ---
-<img src="https://img.shields.io/badge/💡-Nunca%20pare%20de%20aprender-blue?style=for-the-badge" />
 
 <p align="left">
   <i>Aberto a aprender, colaborar e construir projetos cada vez melhores.</i>
