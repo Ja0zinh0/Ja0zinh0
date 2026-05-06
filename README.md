@@ -29,7 +29,7 @@ Gosto de explorar tecnologias, entender como as coisas funcionam e transformar c
 ## 📊 Linguagens mais usadas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja0zinh0&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 
