@@ -26,6 +26,12 @@ Gosto de explorar tecnologias, entender como as coisas funcionam e transformar c
   <img src="https://skillicons.dev/icons?i=java,docker,mysql&theme=dark" />
 </p>
 
+## 📊 Linguagens mais usadas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight" />
+</p>
+
 
 ## 🎯 Objetivos e interesses
 
