@@ -10,7 +10,7 @@
 
 ## 🚀 Bio
 
-Sou estudante de Ciência da Computação com grande interesse em tecnologia, desenvolvimento de software e aprendizado contínuo. Estou construindo minha trajetória como desenvolvedor, buscando evoluir constantemente por meio de estudos, prática e novos desafios.
+Sou estudante de Analise e Desenvolvimento de sistemas com grande interesse em tecnologia, desenvolvimento de software e aprendizado contínuo. Estou construindo minha trajetória como desenvolvedor, buscando evoluir constantemente por meio de estudos, prática e novos desafios.
 
 ## 💡 Sobre mim
 
@@ -27,11 +27,9 @@ Gosto de explorar tecnologias, entender como as coisas funcionam e transformar c
 </p>
 
 ## 📊 Linguagens mais usadas
-
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ja0zinh0&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja0zinh0&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
-
 
 ## 🎯 Objetivos e interesses
 
